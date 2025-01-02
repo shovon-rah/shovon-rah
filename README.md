@@ -2,7 +2,7 @@
 # About Me
 
 <p>
-  <img align="right" src="[https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_mrxy31I2kv1qztvpwo2_500.gif" alt="adrita-khan](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcms.cern%2Fnews%2Fits-never-too-late-photons-cms&psig=AOvVaw36yqys45uMQbxaRDTjojW8&ust=1735902103421000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj-xrrx1ooDFQAAAAAdAAAAABAE)" />
+  <img align="right" src="[(https://www.google.com/url?sa=i&url=https%3A%2F%2Fcms.cern%2Fnews%2Fits-never-too-late-photons-cms&psig=AOvVaw36yqys45uMQbxaRDTjojW8&ust=1735902103421000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj-xrrx1ooDFQAAAAAdAAAAABAE"] />
 </p>
 
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
