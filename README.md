@@ -1,13 +1,13 @@
 # **Shovon Rahman**
 
 ### *Theoretical Physics Graduate*
+---
+> *"I was an ordinary person who studied hard. There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people."*  
+> — Richard Feynman
 
 <p>
   <img align="right" src="assets/images/header.jpeg" alt="shovon-rah" />
 </p>
-
-> *"I was an ordinary person who studied hard. There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people."*  
-> — Richard Feynman
 
 
 ## **Introduction**
