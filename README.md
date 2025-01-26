@@ -2,7 +2,7 @@
 # About Me
 
 <p>
-  <img align="right" src="[(https://www.google.com/url?sa=i&url=https%3A%2F%2Fcms.cern%2Fnews%2Fits-never-too-late-photons-cms&psig=AOvVaw36yqys45uMQbxaRDTjojW8&ust=1735902103421000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj-xrrx1ooDFQAAAAAdAAAAABAE"] />
+  <img align="right" src="https://github.com/shovon-rah/shovon-rah/tree/main/assets/IMG_4354.HEIC" />
 </p>
 
 > *"I was an ordinary person who studied hard. There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people."*  
