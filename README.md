@@ -1,7 +1,6 @@
-# **Shovon Rahman**
-
-### *Theoretical Physics Graduate*
----
+# ** 👋 Hi, I'm Shovon Rahman ⚛️🌌**
+\n
+\n
 > *"I was an ordinary person who studied hard. There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people."*  
 > — Richard Feynman
 
@@ -10,7 +9,7 @@
 </p>
 
 
-## **Introduction**
+## **About me**
 Hello! I am [Your Name], a passionate researcher with a keen interest in [your field of interest, e.g., particle physics, machine learning, etc.]. My work focuses on [brief description of your research interests]. I am driven by curiosity and an unrelenting desire to explore the fundamental questions of the universe through [specific tools or approaches you use, e.g., theoretical modeling, data analysis, etc.].
 
 ---
