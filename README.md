@@ -13,22 +13,21 @@
 
 
 
-Hello! I am Shovon Rahman, a theoretical physics graduate of the University of Dhaka and a passionate teacher and researcher. I'm interested in high-energy physics, astrophysics, and nonlinear dynamics. My work focuses on uncertainty quantification in Lattice QCD and jet tagging using ML algorithms. I am driven by curiosity and an ever-deepening desire to explore the mathematical beauty underlying the laws of the universe through theoretical modeling and data analysis. I also take an interest in the philosophical implementation of fundamental natural laws.
+Hello! I am Shovon Rahman, a theoretical physics graduate of the University of Dhaka and a passionate teacher and researcher. I'm interested in high-energy physics, astrophysics, and nonlinear dynamics. My work focuses on uncertainty quantification in Lattice QCD and jet tagging using ML algorithms. I am driven by curiosity and an ever-deepening desire to explore the mathematical beauty underlying the laws of the universe through theoretical modeling and data analysis. I also take an interest in the philosophical implications of fundamental natural laws.
 
 ---
 
 ## **Research Projects**
-- **[Project Title 1]:** Brief description of the project, its goals, and significance.
-- **[Project Title 2]:** Brief description of the project, its goals, and significance.
-- **[Project Title 3]:** Brief description of the project, its goals, and significance.
+- **Jet tagging using ML algorithms:** Brief description of the project, its goals, and significance.
+- **Uncertainty quantification in Lattice QCD using resampling techniques:** Brief description of the project, its goals, and significance.
 
 ---
 
 ## **Skills**
-- Programming Languages: [e.g., Python, C++, MATLAB]
-- Analytical Tools: [e.g., ROOT, Matplotlib, NumPy]
-- Data Analysis Techniques: [e.g., resampling methods, least chi-square fitting]
-- Others: [e.g., LaTeX, version control systems like Git, etc.]
+- Programming Languages: Python, C++, Mathematica
+- Analytical Tools: NumPy, Matplotlib, SciPy, Pandas, GalPy, AstroPy
+- Data Analysis Techniques: Resampling techniques, least chi-square fitting
+- Others: LaTeX, Git, Illustrator etc.
 
 ---
 
