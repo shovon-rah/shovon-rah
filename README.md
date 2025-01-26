@@ -13,7 +13,7 @@
 
 
 
-Hello! I am [Your Name], a passionate researcher with a keen interest in [your field of interest, e.g., particle physics, machine learning, etc.]. My work focuses on [brief description of your research interests]. I am driven by curiosity and an unrelenting desire to explore the fundamental questions of the universe through [specific tools or approaches you use, e.g., theoretical modeling, data analysis, etc.].
+Hello! I am Shovon Rahman, a theoretical physics graduate of the University of Dhaka and a passionate teacher and researcher. I'm interested in high-energy physics, astrophysics, and nonlinear dynamics. My work focuses on uncertainty quantification in Lattice QCD and jet tagging using ML algorithms. I am driven by curiosity and an ever-deepening desire to explore the mathematical beauty underlying the laws of the universe through theoretical modeling and data analysis. I also take an interest in the philosophical implementation of fundamental natural laws.
 
 ---
 
