@@ -2,7 +2,7 @@
 # About Me
 
 <p>
-  <img align="right" src="https://github.com/shovon-rah/shovon-rah/tree/main/assets/IMG_4354.HEIC" />
+  <img align="right" src="https://github.com/shovon-rah/shovon-rah/tree/main/assets/header.jpeg" />
 </p>
 
 > *"I was an ordinary person who studied hard. There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people."*  
