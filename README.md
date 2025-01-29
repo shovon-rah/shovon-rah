@@ -13,7 +13,7 @@
 
 
 
-Hello! I am Shovon Rahman, a theoretical physics graduate of the University of Dhaka and a passionate teacher and researcher, currently looking for Ph.D. opportunities. I'm interested in high-energy physics, astrophysics, and nonlinear dynamics. My work focuses on uncertainty quantification in Lattice QCD and jet tagging using ML algorithms. I am driven by curiosity and an ever-deepening desire to explore the mathematical beauty underlying the laws of the universe through theoretical modeling and data analysis. I also take an interest in the philosophical implications of fundamental natural laws.
+Hello! I am Shovon Rahman, a theoretical physics graduate of the University of Dhaka and a passionate teacher and researcher, currently looking for Ph.D. opportunities. I'm interested in high-energy physics, astrophysics, and nonlinear dynamics. My work focuses on uncertainty quantification in Lattice QCD and jet tagging using graph neural networks. I am driven by curiosity and an ever-deepening desire to explore the mathematical beauty underlying the laws of the universe through theoretical modeling and data analysis. I also take an interest in the philosophical implications of fundamental natural laws.
 
 ---
 ## **Career Goals**
