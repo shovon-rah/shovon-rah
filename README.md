@@ -17,7 +17,7 @@ Hello! I am Shovon Rahman, a theoretical physics graduate of the University of D
 
 ---
 ## **Career Goals**
-My long-term goal is to pursue further research in high-energy physics to fortify my knowledge as well as my research skills which are valuable to the ongoing efforts in answering some of the crucial questions about nature at the fundamental level. I'm deeply passionate about teaching because it lets me interact with others and acquire newer and broader ways to look at problems. I aspire to work within national research facilities or academic institutions to contribute more to teaching and research.
+My long-term goal is to pursue further research in high-energy physics to fortify my knowledge and research skills, which are valuable to the ongoing efforts in answering some of the crucial questions about nature at the fundamental level. I'm deeply passionate about teaching because it lets me interact with students from diverse backgrounds and acquire newer and broader ways of looking at problems. I aspire to work within national research facilities or academic institutions to contribute more to teaching and research.
 
 ---
 
