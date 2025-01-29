@@ -10,6 +10,11 @@
 > *"I was an ordinary person who studied hard. There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people."*  
 > — Richard Feynman
 
+<blockquote style="font-size: larger;">
+  <p>"I was an ordinary person who studied hard. There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people."</p>
+  <footer>— Richard Feynman</footer>
+</blockquote>
+
 
 
 
