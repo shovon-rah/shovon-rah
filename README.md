@@ -43,25 +43,29 @@ Recent theoretical and algorithmic developments along with the advent of high-pe
 ---
 
 ## **Skills**
-- Programming Languages: Python, C++, Mathematica
-- Analytical Tools: NumPy, Matplotlib, SciPy, Pandas, GalPy, AstroPy
-- Data Analysis Techniques: Resampling techniques, least chi-square fitting
-- Others: LaTeX, Git, Illustrator etc.
+- **Programming Languages:** Python, C++, Mathematica
+- **Analytical Tools:** NumPy, Matplotlib, SciPy, Pandas, GalPy, AstroPy
+- **Data Analysis Techniques:** Resampling techniques, least chi-square fitting
+- **Others:** LaTeX, Git, Illustrator etc.
 
 ---
 
 ## **Workshops Attended**
-- **Workshop Name 1** - [Topic/Description, e.g., Advanced Techniques in Machine Learning]
-- **Workshop Name 2** - [Topic/Description, e.g., Hands-on Training in Lattice QCD]
-- **Workshop Name 3** - [Topic/Description]
+- **Workshop Name 1** - [Introduction to Astrophysics Research](https://www.facebook.com/events/917349137214758)
 
 
 ---
 
+## **Test Scores**
+- **IELTS** - Overall 7.0 [Listening: 8 Reading: 7 Writing: 7 Speaking: 6.5]
+- **GRE** - 313 [Verbal: 157; Quantitative: 156]
+
 ## **Contact Me**
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn URL]
-- **GitHub:** [Your GitHub URL]
+- **Email:** matiurrahman-2021616273@tphy.du.ac.bd
+- **LinkedIn:** [Shovon Rahman](https://www.linkedin.com/in/shovon-rah/)
+- **Facebook:** [Shovon Rahman](https://www.facebook.com/shovon.rah)
+- **X:** [Shovon Rahman](https://x.com/shovon_rah)
+- **GitHub:** [Shovon Rahman](https://github.com/shovon-rah/)
 - **Website:** [Your Personal Website URL]
 
 Feel free to reach out if you have questions about my work or if you’d like to collaborate on a project!
