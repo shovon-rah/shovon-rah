@@ -10,11 +10,11 @@
 > *"I was an ordinary person who studied hard. There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people."*  
 > — Richard Feynman
 
-Hello! I am Shovon Rahman, a theoretical physics graduate of the University of Dhaka and a passionate teacher and researcher, currently looking for Ph.D. opportunities. I'm interested in high-energy physics, astrophysics, and nonlinear dynamics. My work focuses on uncertainty quantification in Lattice QCD and jet tagging using graph neural networks. I am driven by curiosity and an ever-deepening desire to explore the mathematical beauty underlying the laws of the universe through theoretical modeling and data analysis. I also take an interest in the philosophical implications of fundamental natural laws.
+Hello! I am Shovon Rahman, a theoretical physics graduate of the University of Dhaka and a passionate teacher and researcher, currently looking for Ph.D. opportunities. I'm interested in emergent phenomena in non-equilibrium systems and high-energy physics. My past work focused on uncertainty quantification in Lattice QCD and jet tagging using graph neural networks. I am driven by curiosity and an ever-deepening desire to explore the mathematical beauty underlying the laws of the universe through theoretical modeling and data analysis. I also take an interest in the philosophical implications of fundamental natural laws.
 
 ---
 ## **Career Goals**
-My long-term goal is to pursue further research in high-energy physics to fortify my knowledge and research skills, which are valuable to the ongoing efforts in answering some of the crucial questions about nature at the fundamental level. I'm deeply passionate about teaching because it lets me interact with students from diverse backgrounds and acquire newer and broader ways of looking at problems. I aspire to work within national research facilities or academic institutions to contribute more to teaching and research.
+My long-term goal is to pursue further research in non-equilibrium systems, emergent phenomena and high-energy physics to fortify my knowledge and research skills, which are valuable to the ongoing efforts in answering some of the crucial questions about nature at the fundamental level. I'm deeply passionate about teaching because it lets me interact with students from diverse backgrounds and acquire newer and broader ways of looking at problems. I aspire to work within national research facilities or academic institutions to contribute more to teaching and research.
 
 ---
 
