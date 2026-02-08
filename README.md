@@ -26,7 +26,8 @@ Jahangirnagar University, 2022
 ---
 
 ## **Professional Background**
-- **Lecturer in Physics** - Dhaka City College <br>
+- **Lecturer in Physics** - [Monno International School & College](https://misc.edu.bd/) <br>
+- **Former Lecturer in Physics** - [Dhaka City College](https://www.dhakacitycollege.edu.bd/) <br>
 As part of my teaching duties, I teach electricity and magnetism, thermodynamics, the basics of statistical mechanics and atomic models, and nuclear physics to college students. Teaching has significantly deepened my understanding of core physics concepts and enhanced my ability to communicate complex ideas concisely. It has also amplified my eagerness, patience, flexibility, and punctuality.
 
 ---
@@ -56,6 +57,7 @@ Recent theoretical and algorithmic developments along with the advent of high-pe
 ## **Test Scores**
 - **IELTS** - Overall 7.0 [Listening: 8 Reading: 7 Writing: 7 Speaking: 6.5]
 - **GRE** - 313 [Verbal: 157; Quantitative: 156]
+- **GRE Physics** - 710
 
 ## **Contact Me**
 - **Email:** matiurrahman-2021616273@tphy.du.ac.bd
