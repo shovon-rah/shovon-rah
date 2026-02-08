@@ -33,10 +33,15 @@ As part of my teaching duties, I teach electricity and magnetism, thermodynamics
 ---
 
 ## **Research Projects**
+- **Uncertainty Quantification in Lattice QCD Correlators (Master's Thesis)**<br>
+Recent theoretical and algorithmic developments along with the advent of high-performance computers have pushed lattice QCD to the precision era, where it becomes essential to assess the statistical uncertainty and sensitivity associated with various measurement techniques and the nature of simulated data and evaluate their reliability.
+- I implemented jackknife, bootstrap, and blocking resampling on synthetic two-point correlation functions across 350 gauge configurations and 40 time slices.
+- Studied bias, variance, and autocorrelation effects in mass extraction from exponential fits.
+- Tools: Python, NumPy, SciPy
+- Code: https://github.com/shovon-rah/correlator-toymodel/
+
 - **Jet tagging using ML algorithms:**<br>
 Jets are collimated sprays of hadrons which are used as a probe to determine the properties of quark gluon plasma, otherwise known as QGP, produced in high energy colliders like the LHC at CERN and RHIC at Brookhaven Laboratory. A challenging task is jet tagging (to classify the particles that initiate jets). SUbtracting the background noise from the signal data requires ML algorithms.
-- **Uncertainty quantification in Lattice QCD using resampling techniques:**<br>
-Recent theoretical and algorithmic developments along with the advent of high-performance computers have pushed lattice QCD to the precision era, where it becomes essential to assess the statistical uncertainty and sensitivity associated with various measurement techniques and the nature of simulated data and evaluate their reliability.
 
 ---
 
